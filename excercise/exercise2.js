@@ -15,6 +15,8 @@ console.log(area); // Output: 15
  */
 
 function calculateRectangleArea(length, width) {
+ 
+return length * width;
   // Your code here
 }
 
